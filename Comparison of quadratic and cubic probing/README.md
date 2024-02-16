@@ -1,0 +1,1 @@
+Here, I've created code to compare the efficiency of hash tables with open addressing using two variations: quadratic probing and cubic probing.
